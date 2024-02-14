@@ -5,5 +5,5 @@
 - Python 3.x
 - Tkinter (usually comes pre-installed with Python)
 # Important
-- Rapidly clicking the number options may lead to a Tcl error,
+- Rapidly clicking the number options may lead to a Tcl error
   
